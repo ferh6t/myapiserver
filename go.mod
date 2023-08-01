@@ -1,4 +1,4 @@
-module myapiserver
+module github.com/ferh6t/myapiserver
 
 go 1.20
 
